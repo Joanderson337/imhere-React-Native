@@ -11,6 +11,13 @@
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/77758027/210009245-19ac6f0d-8787-4366-9cbf-3552d910cbb2.png)
+
+![image](https://user-images.githubusercontent.com/77758027/210009273-6e26874d-856a-45b2-80aa-2227c6cc85e0.png)
+
+![image](https://user-images.githubusercontent.com/77758027/210009289-afad2961-4975-4c5e-973b-b7a473904c4b.png)
+
+
 
 
 
