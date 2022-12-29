@@ -10,14 +10,9 @@
 
 
 ## Screenshots
-
-![image](https://user-images.githubusercontent.com/77758027/210009245-19ac6f0d-8787-4366-9cbf-3552d910cbb2.png)
-
-![image](https://user-images.githubusercontent.com/77758027/210009273-6e26874d-856a-45b2-80aa-2227c6cc85e0.png)
-
-![image](https://user-images.githubusercontent.com/77758027/210009289-afad2961-4975-4c5e-973b-b7a473904c4b.png)
-
-
+  <br/>
+ <img width="400px" src="https://user-images.githubusercontent.com/77758027/210009719-2dc13af7-12ca-4a06-b56c-8c93c52b2d37.png" />
+ 
 
 
 
@@ -28,8 +23,6 @@ sobre React e React Native, entre
 eles estão a componentização, estados, imutabilidade, hooks e como o React Native 
 renderiza interfaces nativas. Além de aplicar o Typescript no projeto para adicionar 
 tipagem estática à aplicação. </p>
-
-
 
 
 
