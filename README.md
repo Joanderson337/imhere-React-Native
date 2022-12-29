@@ -17,7 +17,7 @@
 ## Descrição do projeto 
 
 <p>Projeto em React Native utilizando o Expo Manager Workflow para aplicar conceitos
-sobre React e do React Native, entre 
+sobre React e React Native, entre 
 eles estão a componentização, estados, imutabilidade, hooks e como o React Native 
 renderiza interfaces nativas. Além de aplicar o Typescript no projeto para adicionar 
 tipagem estática à aplicação. </p>
