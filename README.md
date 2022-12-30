@@ -40,9 +40,8 @@ tipagem estática à aplicação. </p>
 
 ## Screenshots
   <br/>
- <img width="400px" src="https://user-images.githubusercontent.com/77758027/210009719-2dc13af7-12ca-4a06-b56c-8c93c52b2d37.png" />
+ <img width="400px" src="https://user-images.githubusercontent.com/77758027/210074086-e2f3cb4c-c02f-4551-a08c-48107c1743a1.png" />
  
-
 
 
 
