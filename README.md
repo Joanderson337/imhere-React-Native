@@ -16,7 +16,26 @@ tipagem estática à aplicação. </p>
      
 
 ## Para executar o projeto ⤸
-
+     
+   * 1 - Baixe o app do expo em seu celular
+   
+   Link Android: https://play.google.com/store/apps/details?id=host.exp.exponent
+   
+   Link IOS: https://apps.apple.com/br/app/expo-go/id982107779
+   
+   * 2 - Abra o app do expo, e realizei o scanner do QRcode abaixo
+   <img width="350px" src="https://user-images.githubusercontent.com/77758027/210073479-68b2a7c7-d5a1-46b5-9246-46ddcaddeee9.png" />
+   
+   Android: 
+     </br>
+     </br>
+     ![image](https://user-images.githubusercontent.com/77758027/210073642-78b550ce-86eb-4c77-8e54-422e815912aa.png)
+     </br>
+     </br>
+   IOS: 
+     </br>
+     </br>
+     ![image](https://user-images.githubusercontent.com/77758027/210073772-0973bee8-6588-47f1-b109-ecf2c5710fd0.png)
 
 
 ## Screenshots
