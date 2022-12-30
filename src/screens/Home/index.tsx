@@ -34,11 +34,11 @@ export function Home() {
   return (
     <View style={styles.container}>
       <Text style={styles.eventName}>
-        Nome do evento
+        Ano novo
       </Text>
 
       <Text style={styles.eventDate}>
-        Sexta, 4 de Novembro de 2022.
+        Sábado, 31 de Dezembro de 2022.
       </Text>
 
       <View style={styles.form}>
