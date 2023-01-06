@@ -45,7 +45,6 @@ tipagem estática à aplicação. </p>
 
 
 
-
 👋🏽 Entre em contato!
 <br/>
 
